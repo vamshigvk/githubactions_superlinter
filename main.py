@@ -2,7 +2,7 @@
 
 def string_k(k, str):
  
-# create the empty string
+    # create the empty string
     string = []
     for x in text:
         # if length of current sub string

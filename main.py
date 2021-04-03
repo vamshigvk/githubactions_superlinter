@@ -2,6 +2,7 @@
 def string_k(k, str):
     # create the empty string
     string = []
+    text = str.split(" ")
     for x in text:
         # if length of current sub string
         # is greater than k then

@@ -1,7 +1,6 @@
 # Python program to find all string which are greater than given length k, function find string greater than length k
 
 def string_k(k, str):
- 
     # create the empty string
     string = []
     for x in text:

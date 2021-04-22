@@ -9,8 +9,8 @@ def string_k(k, str):
         if len(x) > k:
             # append this sub string in
             # string list
-            str1=string.append(x)
-    return str1
+            s=string.append(x)
+    return s
 
 
 k = 3
